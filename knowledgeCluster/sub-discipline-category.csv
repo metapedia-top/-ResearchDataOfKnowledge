@@ -1,0 +1,294 @@
+﻿id,name,category
+0,Inorganic chemistry,3
+1,Organic chemistry,3
+2,Analytical chemistry,3
+3,Anatomy,13
+4,Veterinary medicine,13
+5,Macroeconomics,5
+6,Monetary economics,5
+7,Endocrinology,13
+8,Internal medicine,13
+9,Atmospheric sciences,15
+10,Meteorology,15
+11,Geochemistry,9
+12,Geomorphology,9
+13,International trade,5
+14,International economics,5
+15,Economic policy,5
+16,Discrete mathematics,12
+17,Combinatorics,12
+18,Gynecology,13
+19,Obstetrics,13
+20,Paleontology,9
+21,Computer network,4
+22,Distributed computing,4
+23,Real-time computing,4
+24,Financial economics,5
+25,Economy,5
+26,Microeconomics,5
+27,Developmental psychology,17
+28,Social psychology,17
+29,Climatology,9
+30,Development economics,5
+31,Political economy,18
+32,Algebra,12
+33,Pure mathematics,12
+34,Earth science,9
+35,Geophysics,15
+36,Geodesy,9
+37,Seismology,9
+38,Finance,5
+39,Mathematics education,17
+40,Pedagogy,18
+41,Economic system,5
+42,Market economy,5
+43,Petrology,9
+44,Financial system,5
+45,Control engineering,6
+46,Control theory,12
+47,Economic growth,5
+48,Particle physics,15
+49,Quantum electrodynamics,15
+50,Cancer research,13
+51,Oncology,13
+52,Clinical psychology,17
+53,Genetics,1
+54,Molecular biology,1
+55,Human\u2013computer interaction,4
+56,Multimedia,4
+57,Topology,12
+58,Labour economics,5
+59,Computer vision,4
+60,Pattern recognition,4
+61,Agroforestry,7
+62,Forestry,8
+63,Emergency medicine,13
+64,Medical emergency,13
+65,Religious studies,14
+66,Theology,14
+67,Public administration,16
+68,Cell biology,1
+69,Mathematical physics,15
+70,Atomic physics,15
+71,Condensed matter physics,15
+72,Agricultural economics,5
+73,Natural resource economics,5
+74,Pathology,13
+75,Surgery,13
+76,Electrical engineering,6
+77,Electronic engineering,6
+78,Biochemistry,3
+79,Public economics,5
+80,Linguistics,14
+81,Natural language processing,4
+82,Business administration,2
+83,Marketing,2
+84,Programming language,4
+85,Software engineering,6
+86,Family medicine,13
+87,Nursing,13
+88,Keynesian economics,5
+89,Theoretical physics,15
+90,Commerce,5
+91,Industrial organization,5
+92,Classical mechanics,15
+93,Mechanics,15
+94,Cognitive psychology,17
+95,Gerontology,13
+96,Demography,18
+97,Psychiatry,17
+98,Psychotherapist,17
+99,Civil engineering,6
+100,Environmental engineering,7
+101,Astrophysics,15
+102,Astronomy,15
+103,Botany,1
+104,Ecology,1
+105,Quantum mechanics,15
+106,Public relations,16
+107,Agronomy,1
+108,Horticulture,1
+109,Actuarial science,5
+110,Machine learning,4
+111,Data mining,4
+112,Agricultural science,7
+113,Cognitive science,17
+114,Fishery,1
+115,Oceanography,9
+116,Telecommunications,6
+117,Environmental chemistry,3
+118,Socioeconomics,18
+119,Computer hardware,4
+120,Embedded system,6
+121,Computational chemistry,3
+122,Physical chemistry,3
+123,Immunology,13
+124,Computer architecture,4
+125,Accounting,5
+126,Parallel computing,4
+127,Composite material,11
+128,Metallurgy,11
+129,Knowledge management,4
+130,Economic geography,8
+131,Regional science,18
+132,Artificial intelligence,4
+133,Positive economics,5
+134,Waste management,6
+135,Aeronautics,6
+136,Aerospace engineering,6
+137,Performance art,0
+138,Visual arts,0
+139,Operating system,4
+140,Environmental economics,5
+141,Archaeology,10
+142,Literature,0
+143,Art history,10
+144,Zoology,1
+145,Law and economics,18
+146,Speech recognition,4
+147,Management science,6
+148,Nuclear physics,15
+149,Chemical physics,15
+150,World Wide Web,4
+151,Demographic economics,5
+152,Hydrology,9
+153,Soil science,9
+154,Information retrieval,4
+155,Environmental planning,8
+156,Environmental resource management,7
+157,Operations management,6
+158,Physical geography,8
+159,Neoclassical economics,5
+160,Computer security,4
+161,Ancient history,10
+162,Classics,10
+163,Microbiology,1
+164,Virology,13
+165,Mechanical engineering,6
+166,Internet privacy,4
+167,Operations research,12
+168,Algorithm,12
+169,Mathematical optimization,12
+170,Biophysics,1
+171,Pharmacology,13
+172,Physiology,13
+173,Theoretical computer science,4
+174,Nuclear magnetic resonance,15
+175,Traditional medicine,13
+176,Mathematical economics,12
+177,Welfare economics,5
+178,Molecular physics,15
+179,Database,4
+180,Gender studies,18
+181,Media studies,18
+182,Remote sensing,9
+183,Aesthetics,14
+184,Economic history,10
+185,Law,16
+186,Advertising,2
+187,Structural engineering,6
+188,Geotechnical engineering,9
+189,Anthropology,18
+190,Environmental protection,8
+191,Social science,18
+192,Neuroscience,17
+193,Psychoanalysis,17
+194,Gastroenterology,13
+195,General surgery,13
+196,Medical education,13
+197,Anesthesia,13
+198,Cardiology,13
+199,Systems engineering,6
+200,Engineering management,6
+201,Process management,6
+202,Photochemistry,3
+203,Nuclear medicine,13
+204,Radiology,13
+205,Environmental health,13
+206,Intensive care medicine,13
+207,Communication,18
+208,Industrial engineering,6
+209,Mathematical analysis,12
+210,Polymer chemistry,11
+211,Polymer science,11
+212,Ophthalmology,13
+213,Optometry,13
+214,Epistemology,14
+215,Computer engineering,6
+216,Ethnology,18
+217,Applied mathematics,12
+218,Mineralogy,9
+219,Physical therapy,13
+220,Optoelectronics,15
+221,Optics,15
+222,Computational biology,1
+223,Bioinformatics,1
+224,Evolutionary biology,1
+225,Econometrics,12
+226,Animal science,1
+227,Food science,3
+228,Medical physics,15
+229,Data science,4
+230,Nanotechnology,11
+231,Stereochemistry,3
+232,Statistical physics,15
+233,Crystallography,3
+234,Criminology,18
+235,Simulation,6
+236,Statistics,12
+237,Thermodynamics,15
+238,Pediatrics,13
+239,Manufacturing engineering,6
+240,Architectural engineering,6
+241,Construction engineering,6
+242,Audiology,13
+243,Chemical engineering,6
+244,Alternative medicine,13
+245,Forensic engineering,6
+246,Medicinal chemistry,3
+247,Pulp and paper industry,6
+248,Water resource management,7
+249,Calculus,12
+250,Management,5
+251,Engineering drawing,6
+252,Mining engineering,9
+253,Nuclear chemistry,3
+254,Radiochemistry,3
+255,Classical economics,5
+256,Process engineering,6
+257,Computational physics,15
+258,Toxicology,1
+259,Acoustics,15
+260,Physical medicine and rehabilitation,13
+261,Astrobiology,15
+262,Automotive engineering,6
+263,Transport engineering,6
+264,Biotechnology,1
+265,Agricultural engineering,6
+266,Petroleum engineering,9
+267,Biochemical engineering,6
+268,Cartography,8
+269,Computational science,12
+270,Dentistry,13
+271,Orthodontics,13
+272,Engineering ethics,6
+273,Chromatography,3
+274,Environmental ethics,14
+275,Geometry,12
+276,Andrology,13
+277,Applied psychology,17
+278,Humanities,14
+279,Biomedical engineering,13
+280,Reliability engineering,6
+281,Marine engineering,6
+282,Combinatorial chemistry,3
+283,Urology,13
+284,Library science,4
+285,Nuclear engineering,6
+286,Genealogy,10
+287,Dermatology,13
+288,Biological system,1
+289,Arithmetic,12
+290,Engineering physics,15
+291,Ceramic materials,11
+292,Computer graphics (images),4
