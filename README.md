@@ -1,4 +1,4 @@
-# researchDataOfKnowledge
+# mag-data-for-knowledge-consilience
 
 ## knowledgeDistance
 
